@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Без Звука</string>
+    <string name="disableSound">Выключить звук</string>
+    <string name="enableSound">Включить звук</string>
+</resources>
