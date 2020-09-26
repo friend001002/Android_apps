@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity
     {
         // Find the view named phone_icon in our layout.  We know it’s
         // an ImageView in the layout, so downcast it to an ImageView.
-        ImageView imageView = (ImageView) findViewById(R.id.phone_icon);
+        ImageView imageView = (ImageView)findViewById(R.id.phone_icon);
 
         // Set phoneImage to the ID of image that represents ringer on
         // or off.  These are found in res/drawable-xxhdpi
